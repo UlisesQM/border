@@ -1,0 +1,22 @@
+body{
+  background-color: #1F1F1F;
+  color: #41909F;
+
+
+}
+#container{
+   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.item{
+  background-color: aqua;
+  width: 100px;
+  height: 100px;
+}
+.input{
+  padding: auto;
+  width: 100px;
+
+}
